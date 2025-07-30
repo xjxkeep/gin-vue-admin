@@ -12,7 +12,7 @@ CONFIG_FILE         = config.yaml
 #镜像仓库命名空间
 IMAGE_NAME          = gva
 #镜像地址
-REPOSITORY          = registry.cn-hangzhou.aliyuncs.com/${IMAGE_NAME}
+REPOSITORY          = crpi-hrity7yofv004168.cn-shanghai.personal.cr.aliyuncs.com/15150276667/IMAGE_NAME}
 #镜像版本
 TAGS_OPT           ?= latest
 PLUGIN             ?= email
